@@ -1,0 +1,28 @@
+.button-list {
+  list-style-type: none;
+}
+
+.empty-btn {
+  color: #db1c48;
+  background-color: #ffffff;
+  border: 1px solid #db1c48;
+  outline: none;
+  cursor: pointer;
+  border-radius: 12px;
+  padding-left: 17px;
+  padding-right: 17px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.active-btn {
+  color: #ffffff;
+  background-color: #db1c48;
+  outline: none;
+  border: none;
+  border-radius: 12px;
+  padding-left: 17px;
+  padding-right: 17px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
