@@ -1,4 +1,4 @@
-The goal of this coding exam is to quickly get you off the ground with **Lists and Keys**.
+The goal of this coding practice is to quickly get you off the ground with **Lists and Keys**.
 
 ### Refer to the image below:
 
@@ -80,7 +80,4 @@ The app must have the following functionalities
 
 </details>
 
-> ### _Things to Keep in Mind_
->
-> - All components you implement should go in the `src/components` directory.
-> - Don't change the component folder names as those are the files being imported into the tests.
+All components you implement should go in the `src/components` directory.
